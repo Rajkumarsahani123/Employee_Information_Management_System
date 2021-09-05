@@ -24,3 +24,19 @@ Encrypted File (Binary).
 Easily Add, Delete, Modify Records.
 
 Various Essential Queries.
+
+INFORMATION ABOUT EXTRA FOLDER AND FILES ADDED:
+
+Requirements
+
+Architecture
+
+Implementation
+
+Test plan and output
+
+Report
+
+Images and Videos
+
+other
