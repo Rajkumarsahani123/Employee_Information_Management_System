@@ -20,6 +20,6 @@ _ _ _ _ _ _ _ _ _ _ _ _
 | LR01  |A coord function to display the text on the Top- left corner of window   | HR01  |   | IMPLEMENTED  |
 | LR01  | Small menu should be created for the user to enter.A switch case statement to get the option for the user to select the different key to add employee records.  | HR02  |   | IMPLEMENTED  |
 | LR01  | Function pointer is used to call the data from main function  | HR03  |   | IMPLEMENTED  |
-| LR01  | After the giving long character to the input it’s escaped one input  | HR02  |   |  IMPLEMENTED |
+| LR01  | After the giving long character to the input it’s escaped one input  | HR02  |   | NOT IMPLEMENTED |
 
 
