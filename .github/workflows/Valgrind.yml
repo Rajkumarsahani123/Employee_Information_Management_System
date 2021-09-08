@@ -20,4 +20,4 @@ jobs:
     - name: make test
       run: |
         make test -C 3_Implementation/
-        valgrind ./3_Implementation/Employee_Informtion_Management_System.out
+        valgrind ./3_Implementation/StepIn_Employee_Informtion_Management_System.out
