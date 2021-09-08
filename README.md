@@ -1,3 +1,15 @@
+## Badges 
+
+Code Quality Score
+![Code Quality Score](https://www.code-inspector.com/project/27462/score/svg )
+
+
+Code Grade
+![Code Grade](https://www.code-inspector.com/project/27462/status/svg )
+
+
+
+
 # Employee_Information_Management_System
 This Mini project is based on C Language concept where we can generate the Employee's information and update their records
 INTRODUCTION: What is EIMS?
