@@ -11,6 +11,9 @@ Code Grade
 
 
 # Employee_Information_Management_System
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d61f39ae61f24cb5982e4964accc6aed)](https://app.codacy.com/gh/Rajkumarsahani123/Employee_Information_Management_System?utm_source=github.com&utm_medium=referral&utm_content=Rajkumarsahani123/Employee_Information_Management_System&utm_campaign=Badge_Grade_Settings)
+
 This Mini project is based on C Language concept where we can generate the Employee's information and update their records
 INTRODUCTION: What is EIMS?
 
